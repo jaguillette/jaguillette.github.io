@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "About"
-description: "This is what I do."
+description: "I am what I do"
 header-img: "img/about-bg.jpg"
 ---
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+Hi, I'm Jeremy. I'm a librarian who doesn't always do traditional library things. Lately I've been working on finding ways to support research in the humanities, especially by creating new research infrastructure based on historical texts. I've also worked in usability, user/patron research, and bibliometrics. I like using technology to find new ways of looking at information, and also working to make sure that those technologies are available to as many people as possible.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
+When I'm not working, I like bicycling, home improvement (wherever home happens to be), and reading (surprise!).
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>
+If you're interested in digital scholarship, I'm always interested in hearing about new projects and sharing my experiences. Feel free to go through my [contact](/contact) page, or just [shoot me an email](mailto:jaguillette@gmail.com).
