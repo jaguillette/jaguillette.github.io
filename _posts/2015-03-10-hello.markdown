@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2014-06-10 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-01.jpg"
+title:      "Hello World!"
+subtitle:   "Not necessarily new, but definitely neat."
+date:       2015-03-10
+author:     "Jeremy"
 ---
 
+I've moved my webspace from my own webspace to here, a GitHub pages... page? I've been using GitHub pages for work and I like working with Jekyll, so I figured now is as good a time as any to do some winter website cleaning. Over the next few weeks I'll be putting up descriptions of past projects as blog posts as I am able.
