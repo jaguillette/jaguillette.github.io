@@ -9,7 +9,7 @@ Where are the best high schools in the US?
 
 That's a question that occurred to me when I saw [this ranking data from Niche](https://k12.niche.com/rankings/public-high-schools/best-overall/) on Facebook.
 
-Niche uses a number of factors for its rankings, but one thing that I really wanted to see was if there were any concentrations of great schools anywhere in the US.
+Niche uses [a number of factors](https://k12.niche.com/rankings/methodology/) for its rankings, but one thing that I really wanted to see was if there were any concentrations of great schools anywhere in the US.
 
 So, a bit of scraping, a bit of geocoding, and with some help from CartoDB, I whipped up a couple of maps. Here's the whole US:
 
